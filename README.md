@@ -9,14 +9,14 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I5d29zZHlmbGVhdnpuZWVkNGFhZDdvMnk3eGJvbmJxazNhdzE3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.gif"  />
 
 ###
 
 <div align="left">    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="30"  />      
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" />
   <img width="12" />
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TRungtu041203/TRungtu041203" alt="Snake animation" />
 
 ###
