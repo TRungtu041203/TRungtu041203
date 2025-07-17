@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TRungtu041203/TRungtu041203" alt="Snake animation" />
-
 ###
